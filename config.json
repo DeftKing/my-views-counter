@@ -3,6 +3,9 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "nodejs-win7",
+    "qBittorrent-win7",
+    "strawberry",
+    "chrome_plus"  
   ]
 }
