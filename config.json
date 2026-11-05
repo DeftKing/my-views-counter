@@ -6,6 +6,9 @@
     "nodejs-win7",
     "qBittorrent-win7",
     "strawberry",
-    "chrome_plus"  
+    "CMake-win7",
+    "go-win7",
+    "python-win7",
+    "chrome_plus",
   ]
 }
