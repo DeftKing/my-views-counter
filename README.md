@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/11/1 12:00 AM UTC
+			2026/11/3 12:00 AM UTC
 		</td>
 		<td>
-			14
+			18
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1268321349/small/year.png" height="20"> 54
+			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1268321349/small/year.png" height="20"> 75
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/11/1 12:00 AM UTC
+			2026/11/3 12:00 AM UTC
 		</td>
 		<td>
 			1
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/11/1 12:00 AM UTC
+			2026/11/3 12:00 AM UTC
 		</td>
 		<td>
 			1
@@ -69,8 +69,40 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/DeftKing/my-views-counter/tree/master/readme/1392411169/year.md">
-				chrome_plus
+			<a href="https://github.com/DeftKing/my-views-counter/tree/master/readme/1283607112/year.md">
+				CMake-win7
+			</a>
+		</td>
+		<td>
+			2026/11/1 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1283607112/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/DeftKing/my-views-counter/tree/master/readme/1268366369/year.md">
+				go-win7
+			</a>
+		</td>
+		<td>
+			2026/11/1 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1268366369/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/DeftKing/my-views-counter/tree/master/readme/1337139855/year.md">
+				python-win7
 			</a>
 		</td>
 		<td>
@@ -80,12 +112,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			2
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1392411169/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1337139855/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/DeftKing/my-views-counter/tree/master/readme/1392411169/year.md">
+				chrome_plus
+			</a>
+		</td>
+		<td>
+			2026/11/3 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/DeftKing/my-views-counter/raw/master/graph/1392411169/small/year.png" height="20"> 14
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/11/5 10:02 AM UTC</i></small>
+<small><i>Last updated on 2026/11/5 10:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
